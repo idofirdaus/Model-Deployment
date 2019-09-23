@@ -6,7 +6,7 @@ Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model
 - Code: Berisi file model algoritma berbentuk pickle(.pkl), file python(.py), dan file ipynb (untuk mengedit model)
 - Data: Berisi dataset training, dan testing untuk membangun model algoritma (jika diperlukan)
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ## OUTLINE KONTEN:
 #### Requirement
@@ -30,7 +30,7 @@ Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model
 #### Hasil
 	Hasil Interpretasi dari Model Deployment
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
 ### Tata Cara Pengerjaan:
@@ -56,7 +56,7 @@ Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model
 	5. Variable yang saya gunakan ialah "EDUCATION", "AGE", "PAY_1", "PAY_2", PAY_3". Contoh: "EDUCATION":1, "AGE":20, "PAY_1":1, "PAY_2":0, PAY_3:0"
 	6. Klik "Send" pada POSTMAN
   
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 
 ### Feature Explaination:
@@ -71,7 +71,7 @@ Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model
   - PAY2: Customer yang melakukan pembayaran dibulan kedua berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
   - PAY3: Customer yang melakukan pembayaran dibulan ketiga berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
  
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Hasil
 
 
