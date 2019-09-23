@@ -10,14 +10,13 @@ Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model
 
 ## OUTLINE KONTEN:
 #### Requirement
-Pythonanywhere
- - flask
- - flask_cors
- - jsonify
- - joblib
- - sklearn<br>
- 
-POSTMAN
+	Pythonanywhere
+ 		- flask
+ 		- flask_cors
+ 		- jsonify
+ 		- joblib
+ 		- sklearn
+	POSTMAN
 #### Tata Cara Pengerjaan
 	1 Unduh File
 	2 Membuka File Menggunakan Python Anywhere
@@ -29,6 +28,7 @@ POSTMAN
 	4. PAY_2
 	5. PAY_3
 #### Hasil
+	Hasil Interpretasi dari Model Deployment
 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
@@ -61,15 +61,15 @@ POSTMAN
 
 ### Feature Explaination:
  - EDUCATION: Pada feature ini terbagi menjadi 4 bagian berdasarkan numbering, yaitu:<br>
-    (1) S2/S3<br>
-    (2) Diploma/S1<br>
-    (3) SMA<br>
-    (4) Lainnya<br>
+    	(1) S2/S3<br>
+    	(2) Diploma/S1<br>
+    	(3) SMA<br>
+    	(4) Lainnya<br>
  
- - AGE: Umur dari kreditur
- - PAY1: Customer yang melakukan pembayaran dibulan kesatu berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
- - PAY2: Customer yang melakukan pembayaran dibulan kedua berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
- - PAY3: Customer yang melakukan pembayaran dibulan ketiga berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
+  - AGE: Umur dari kreditur
+  - PAY1: Customer yang melakukan pembayaran dibulan kesatu berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
+  - PAY2: Customer yang melakukan pembayaran dibulan kedua berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
+  - PAY3: Customer yang melakukan pembayaran dibulan ketiga berdasarkan ketepatan waktu. Jika Tepat Waktu maka 0, jika Terlambat 1 bulan maka 1, dan seterusnya
  
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ### Hasil
