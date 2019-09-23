@@ -9,10 +9,19 @@ Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ## OUTLINE KONTEN:
-#### Tata Cara Pengerjaan<br>
-	1 Unduh File<br>
-	2 Membuka File Menggunakan Python Anywhere<br>
-	3 Testing Menggunakan Postman<br>
+#### Requirement
+Pythonanywhere
+ - flask
+ - flask_cors
+ - jsonify
+ - joblib
+ - sklearn<br>
+ 
+POSTMAN
+#### Tata Cara Pengerjaan
+	1 Unduh File
+	2 Membuka File Menggunakan Python Anywhere
+	3 Testing Menggunakan Postman
 #### Feature Explaination:
 	1. EDUCATION
 	2. AGE
