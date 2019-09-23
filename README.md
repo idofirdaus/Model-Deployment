@@ -3,6 +3,9 @@
 
 Model Deployment ini menggunakan framework Flask, dan serta pengeksekusian Model Deployment menggunakan Python Anywhere dan melakukan testing menggunakan POSTMAN
 
+- Code: Berisi file model algoritma berbentuk pickle(.pkl), file python(.py), dan file ipynb (untuk mengedit model)
+- Data: Berisi dataset training, dan testing untuk membangun model algoritma (jika diperlukan)
+
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
 ## OUTLINE KONTEN:
